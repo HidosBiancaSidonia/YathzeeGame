@@ -4,3 +4,5 @@
 
 
 <img width="599" alt="1" src="https://user-images.githubusercontent.com/58684695/76017702-b39d1180-5f27-11ea-86da-f9615c4788f0.png">
+<img width="600" alt="2" src="https://user-images.githubusercontent.com/58684695/76017970-2c03d280-5f28-11ea-9f07-79ddba1262e3.png">
+<img width="601" alt="3" src="https://user-images.githubusercontent.com/58684695/76017978-2dcd9600-5f28-11ea-97d2-2e07e24dea89.png">
